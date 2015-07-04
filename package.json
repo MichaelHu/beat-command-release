@@ -1,15 +1,16 @@
 {
-  "name": "fis-command-release",
-  "description": "fis release command.",
-  "version": "0.12.2",
-  "author": "FIS Team <fis@baidu.com>",
-  "homepage": "http://fis.baidu.com/",
+  "name": "beat-command-release",
+  "description": "beat release command.",
+  "version": "0.0.1",
+  "author": "MichaelHu",
+  "homepage": "http://258i.com/",
   "keywords": [
-    "fis"
+    "beat"
+    , "fis"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fis-dev/fis-command-release.git"
+    "url": "https://github.com/MichaelHu/beat-command-release.git"
   },
   "engines": {
     "node": ">= 0.8.0"
