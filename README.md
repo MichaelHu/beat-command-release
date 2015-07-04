@@ -1,4 +1,4 @@
-# fis-command-release
+# beat-command-release
 
 ## Usage
 
