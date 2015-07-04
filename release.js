@@ -191,7 +191,6 @@ exports.register = function(commander){
                     collection = {};
                     total = {};
                     fis.emitter.emit('after-beat-release');
-                    console.log('after-beat-release');
                     return;
                 }
             });
